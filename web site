@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <title>NEW EVENTS</title>
+       <link src="icon"  href="2.jpeg">
+
+    </head>
+
+    <body bgcolor="black" style="color: white;">
+        <center>
+        <h1> NEW UPDATES <img src="calendar-image-png-3.png" width="30"> </h1>
+        <p>Don't miss any of your important events. Here are the important events you have registered for!</p> <hr>
+        </center>
+
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium nesciunt amet consectetur perspiciatis ab molestias delectus modi tempora quos, voluptates, mollitia natus deserunt expedita, nihil obcaecati! Velit sapiente est corrupti nostrum, consequatur rerum reprehenderit, officiis quibusdam placeat recusandae sequi minima. Blanditiis ipsum, nam totam cumque minima quasi cupiditate? Ipsam ratione aspernatur exercitationem quasi dolorem tempore cumque quas molestias earum? Unde perspiciatis nisi doloribus, eos maiores natus illum esse velit aspernatur veritatis? Laborum aliquid earum dolor doloremque saepe cum dolorem odio, sunt, dolorum illum quis explicabo impedit blanditiis non iusto error quos tempora laudantium quae aut enim maiores ab? Tenetur, laudantium!
+        </p>
+
+        <center>
+        <img src="3.jpeg"> <br>
+        <img src="2.jpeg">
+        <h1>Photo Gallery Event</h1>
+        <h2>Free Entry | Free food | Pets are Not Allowed</h2>
+        
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores incidunt atque exercitationem sed iure deleniti unde nemo voluptatum, fugit alias repudiandae placeat rerum ducimus eos aliquid facilis ut libero amet deserunt, minima cupiditate nam? Facilis non libero mollitia unde optio repellendus, labore accusamus corrupti hic, ex animi minima magni doloribus?
+        </p>
+        <img src="AI image.jpeg"> <br>
+        <a href="https://openai.com/chatgpt/">chatgpt</a>
+        <h2>Free Entry | Free Food | Pets are Not Allowed </h2>
+        </center>
+        <p> 
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, tenetur, eos, facilis commodi optio eius maiores consectetur error quis repellendus magni non distinctio molestiae nesciunt voluptatum corrupti cupiditate a similique.
+        </p>
+        <hr>
+        <center>
+        <h2>Contact</h2>
+        <h3>+91 9743901743943917 | gunakratos09062005@gmail.com</h3>
+        <h4>gudalur,The Nilgiris</h4>
+
+
+        </center>
+
+
+    </body>
+</html>
